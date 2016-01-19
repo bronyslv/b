@@ -742,8 +742,8 @@ hr {
 	color: #2b2b2b;
 }
 
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a {
+.navbar_white .navbar-nav > .active > a:hover,
+.navbar_white .navbar-nav > .active > a {
 	border-color: #48be61;
 }
 
